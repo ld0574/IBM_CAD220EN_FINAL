@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "isbn": "978-7-111-55941-2",
+      "title": "Node.js Development Guide",
+      "author": "Lance",
+      "reviews": []
+    },
+    {
+      "isbn": "978-7-111-55942-9",
+      "title": "JavaScript: The Definitive Guide",
+      "author": "David Flanagan",
+      "reviews": []
+    },
+    {
+      "isbn": "978-7-111-55943-6",
+      "title": "The Art of Computer Programming",
+      "author": "Donald Knuth",
+      "reviews": []
+    }
+  ]
+}

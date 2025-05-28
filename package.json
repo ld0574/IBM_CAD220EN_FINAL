@@ -1,0 +1,25 @@
+{
+  "name": "ibm_cad220en_final",
+  "version": "1.0.0",
+  "description": "IBM CAD220EN Final Assignment on Edx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ld0574/IBM_CAD220EN_FINAL.git"
+  },
+  "author": "Da Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ld0574/IBM_CAD220EN_FINAL/issues"
+  },
+  "homepage": "https://github.com/ld0574/IBM_CAD220EN_FINAL#readme",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
